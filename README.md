@@ -1,9 +1,8 @@
 ### Hi, my name is Tiago Mota!
 ## Welcome to my GitHub profile.👋
 
-**Tiago-Mota09/Tiago-Mota09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Snake animation](https://github.com/Tiago-Mota09/Tiago-Mota09/blob/output/github-contribution-grid-snake.svg)
+<br>
 
 - 💻 I’m currently working on EDESOFT
 - ✏️ I’m currently learning HTML, CSS, JavaScript, JQuery, SQL-Server, C#, .NET...
@@ -34,8 +33,7 @@ Here are some ideas to get you started:
 </div>
 <br>
   
-![Snake animation](https://github.com/Tiago-Mota09/Tiago-Mota09/blob/output/github-contribution-grid-snake.svg)
-<br>
+
 
 <img alt="Cat" src="https://c.tenor.com/rMxNr07CxSMAAAAC/cat-crazy-cat.gif" />
 </div>
