@@ -1,4 +1,4 @@
-### Hi, my name is Tigo Mota!
+### Hi, my name is Tiago Mota!
 ## Welcome to my GitHub profile.👋
 
 <!--
