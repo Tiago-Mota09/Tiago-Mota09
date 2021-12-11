@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 💻 I’m currently working on EDESOFT
 - ✏️ I’m currently learning HTML, CSS, JavaScript, JQuery, SQL-Server, C#, .NET...
-
+<div>
 <div>
 <h3>Tools and technologies:</h3>
 <div style="display: inline-block">
@@ -34,12 +34,8 @@ Here are some ideas to get you started:
 </div>
 <br>
   
-<div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</div> 
-  
-<div>
 ![Snake animation](https://github.com/Tiago-Mota09/Tiago-Mota09/blob/output/github-contribution-grid-snake.svg)
-</div> <br>
+<br>
 
 <img alt="Cat" src="https://c.tenor.com/rMxNr07CxSMAAAAC/cat-crazy-cat.gif" />
+</div>
