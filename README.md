@@ -1,6 +1,5 @@
 ### Hi, my name is Tiago Mota!
 ## Welcome to my GitHub profile.👋
-
 ![Snake animation](https://github.com/Tiago-Mota09/Tiago-Mota09/blob/output/github-contribution-grid-snake.svg)
 <br>
 
