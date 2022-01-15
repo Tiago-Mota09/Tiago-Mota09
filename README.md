@@ -18,6 +18,7 @@
 <img align="center" alt="Tiago-VCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" alt="Tiago-VStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="center" alt="Tiago-VUE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="center" alt="Tiago-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </div>
     
 <h3>Contacts:</h3>  
