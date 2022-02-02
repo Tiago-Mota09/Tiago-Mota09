@@ -11,7 +11,6 @@
         background-color: white;
     }
 </style>
-<div>
 <div class="bg-color">
 <h3>Tools and technologies:</h3>
 <div style="display: inline-block">
