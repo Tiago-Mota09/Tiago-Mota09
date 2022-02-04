@@ -6,12 +6,7 @@
 - 💻 I’m currently working on EDESOFT
 - ✏️ I’m currently learning HTML, CSS, JavaScript, JQuery, SQL-Server, C#, .NET...
 
-<style>
-    .bg-color{
-        background-color: white;
-    }
-</style>
-<div class="bg-color">
+<div>
 <h3>Tools and technologies:</h3>
 <div style="display: inline-block">
 <img align="center" alt="Tiago-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
