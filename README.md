@@ -4,7 +4,7 @@
 <br>
 
 - 💻 I’m currently working on EDESOFT
-- ✏️ I’m currently learning HTML, CSS, JavaScript, JQuery, SQL-Server, C#, .NET...
+- ✏️ I’m currently learning HTML, CSS, JavaScript, JQuery, SQL-Server, C#, .NET, Azure-Dev-Ops...
 
 <div>
 <h3>Tools and technologies:</h3>
