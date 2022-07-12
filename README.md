@@ -3,8 +3,8 @@
 ![Snake animation](https://github.com/Tiago-Mota09/Tiago-Mota09/blob/output/github-contribution-grid-snake.svg)
 <br>
 
-- 💻 I’m currently working on EDESOFT
-- ✏️ I’m currently learning HTML, CSS, JavaScript, JQuery, SQL-Server, C#, .NET, Azure-Dev-Ops...
+- 💻 I’m studying programming and Agile.
+- ✏️ I’m currently learning HTML, CSS, JavaScript, JQuery, VUE, SQL-Server, C#, .NET, Azure-Dev-Ops...
 
 <div>
 <h3>Tools and technologies:</h3>
